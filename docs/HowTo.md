@@ -1,1 +1,2 @@
-Tā ir instrukcija par manu kodu .....
+# Instrukcija
+Tā ir instrukcija par manu kodu.
